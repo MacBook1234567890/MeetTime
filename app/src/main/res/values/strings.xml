@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MeetTime</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="settings_page">Settings Page</string>
+    <string name="username">username</string>
+    <string name="calling">Calling . . .</string>
+    <string name="contacts">Contacts</string>
+    <string name="search">Search...</string>
+    <string name="notifiactions">Notifiactions</string>
+    <string name="user_name">user name</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="cancel_friend_request">Cancel Friend Request</string>
+    <string name="continue1">Continue</string>
+    <string name="write_you_code_here">Write you code here...</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_bio">Write your bio</string>
+    <string name="save">Save</string>
+    <string name="user_name1">user name</string>
+    <string name="cancel_friend_request1">Cancel Friend Request</string>
+    <string name="accept_friend_request">Accept Friend Request</string>
+</resources>

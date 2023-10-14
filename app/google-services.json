@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715619587438",
+    "project_id": "muhammad-ali-3bead",
+    "storage_bucket": "muhammad-ali-3bead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715619587438:android:d133ef492df87a07af1d7f",
+        "android_client_info": {
+          "package_name": "com.example.meettime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05sd5AD1T94co7K4_Eppv8ofWk3kQ6xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
