@@ -96,7 +96,6 @@ public class FindPeopleActivity extends AppCompatActivity {
                                                 .startAt(str)
                                                 .endAt(str+"\uf8ff")
                                         ,Contacts.class)
-
                                 .build();
             }
 
